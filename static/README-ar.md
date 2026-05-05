@@ -35,11 +35,11 @@
  <h4>قائمة العقد: (يتم عرض بعض العقد فقط هنا، يرجى تنزيل التطبيق لعرض جميع العقد)</h4>
     
 ```
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.153.107:990#Seychelles
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@154.223.16.41:4444#Colombia
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXQzBHYmlDazY3SzhuSERhREhtWUlY@159.223.236.36:19582#The+Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#United+States
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQ1YjgzNTE5LTljNGYtNDA1Mi1hMTFiLTAyZTAxN2I2MzZkNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiAzNjcwMywgInBzIjogIkhvbmcgS29uZyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vmess://eyJhZGQiOiAiMTQwLjIzOC4yLjI1MCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNDFhNzA4OWEtMDQwYi00NTM4LThiOGQtMDEwOTAyNDA1YmRlIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJTb3V0aCBLb3JlYSIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiNjYuMTYzLjExNy41OCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJVbml0ZWQgU3RhdGVzIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#United+States
+trojan://BxceQaOe@116.80.61.224:443?allowInsecure=1&sni=t.me%252Fripaojiedian#Japan
+trojan://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.877774.xyz:443?allowInsecure=1&fp=firefox&host=vless.lrdxw.club&path=%2F&sni=vless.lrdxw.club&type=ws#United+States
 ```
 <h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
  <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>

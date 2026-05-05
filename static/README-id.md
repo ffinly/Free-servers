@@ -35,11 +35,11 @@
  <h4>Daftar node: (Hanya beberapa node yang ditampilkan di sini, silakan unduh aplikasi untuk melihat semua node)</h4>
     
 ```
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#United+States
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#South+Korea
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#The+Netherlands
-vmess://eyJhZGQiOiAiNjcuMjIwLjk1LjMiLCAiYWlkIjogMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuZXQiOiAidGNwIiwgInBvcnQiOiAxODAwMCwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImFlcy0xMjgtZ2NtIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#Czechia
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?allowInsecure=1&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F&sni=sni.111000.dynv6.net&type=ws#United+States
+vmess://eyJhZGQiOiAiNDUuOTIuNzAuMjM2IiwgInYiOiAiMiIsICJwcyI6ICJJdGFseSIsICJwb3J0IjogMjIzMjQsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@91.148.135.31:990#Cyprus
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#United+Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#United+Kingdom
 ```
 <h5>Alamat langganan permanen node atas (bagian): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_id</h5>
  <p>Kode QR untuk alamat berlangganan di atas</p>
