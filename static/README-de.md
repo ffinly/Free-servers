@@ -35,11 +35,11 @@
  <h4>Knotenliste: (Hier werden nur einige Knoten angezeigt. Bitte laden Sie die App herunter, um alle Knoten anzuzeigen.)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNDUuMTIuMTMyLjE4MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICI0NS4xMi4xMzIuMTgzIiwgImlkIjogIjcwM2Y3MjJhLTRiZGYtNGU5ZC05YWZkLWE2ODFmZGY4N2M3NCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdm1lc3MvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiUG9ydHVnYWwiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#UK
-vmess://eyJ2IjogIjIiLCAicHMiOiAiQXVzdHJhbGllbiIsICJhZGQiOiAiOTQuMjMyLjI0Ny4xNjUiLCAicG9ydCI6ICI0NTY1MyIsICJpZCI6ICI5ZTkxZDE5YS1jNzNmLTQyNzYtYWRiYy1iMzM3YzM3NDI1OWMiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICI1In0=
-vmess://eyJhZGQiOiAiMTM0LjE5NS4xOTguMTQ3IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogIkthbmFkYSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#USA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZDFiYzU0Njg5ZWQ0Yjc1@119.159.245.24:26739#Pakistan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#Niederlande
+trojan://trojan@152.53.200.167:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=/#%C3%96sterreich
+trojan://BxceQaOe@58.152.53.22:443?security=tls&sni=t.me/ripaojiedian#Hongkong
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#USA
 ```
 <h5>Die permanente Abonnementadresse des oberen Knotens (Teil): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_de</h5>
  <p>QR-Code für die Abonnementadresse oben</p>

@@ -35,11 +35,11 @@
  <h4>Lista de nós: (Apenas alguns nós são exibidos aqui, baixe o aplicativo para visualizar todos os nós)</h4>
     
 ```
-vmess://eyJhZGQiOiAiNDcuMjQ0LjEyMC4xOTciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjg0NWU2YjA4LTI5MTktNDI5MC1hZGUwLTVkYzdkY2VhNTljYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYXJraT9lZD0yMDQ4IiwgInBvcnQiOiA0NDg2NywgInBzIjogIkhvbmcgS29uZyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmMTllMzU5YTJmMGM0ZjVm@51.68.83.117:11201#Fran%C3%A7a
-vmess://eyJ2IjoiMiIsInBzIjoid3d3Ljg1bGEuY29t8J+Hq/Cfh7dGUsKyXzQxfDMuNU1CL3N8R1BU4oG6fFRLfE5GfFh8W+WOn+eUn3zkvY/lroXmi6jlj7ddIiwiYWRkIjoiMjAwMTpiYzg6MzJkNzozMDI6OjExIiwicG9ydCI6IjQ0NTc5IiwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsImZwIjoiIiwicGF0aCI6Ii8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxP2VkPTI1NjAiLCJob3N0IjoiQXplcmIuTkVUIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MWQ2NjU1ZDM2MjVmZDE0@185.244.208.150:11201#Hong+Kong
-trojan://%295,9FW.Kk166@irancell.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&host=028.electrocellco-cf-028.workers.dev&path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&sni=028.eLECtRocEllco-Cf-028.worKErS.dev&type=ws#EUA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#%C3%81frica+do+Sul
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.3:10369?security=tls&sni=fra34.chasem2026sud.com#Reino+Unido
+trojan://humanity@208.103.161.110:443?allowInsecure=1&sni=www.creationlong.org&type=ws&host=www.creationlong.org&path=%2Fassignment#EUA
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@130.0.234.160:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#Ucr%C3%A2nia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#Holanda
 ```
 <h5>O endereço de assinatura permanente do nó superior (parte): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_pt-BR</h5>
  <p>Código QR do endereço de assinatura acima</p>
